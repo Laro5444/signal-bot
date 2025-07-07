@@ -3,7 +3,7 @@
 # ********************************** SPY TIPS COOL STRATEGY **********************************
 SPY_SMA = 150
 TIPS_SMA = 200
-COOLDOWN_DAYS = 0
+COOLDOWN_DAYS = 15
 
 # number of attempts to download data
 TRY_COUNT = 3
