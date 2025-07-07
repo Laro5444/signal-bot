@@ -3,7 +3,7 @@ name: Check Indicators for SPYTIPS COOL STRATEGY
 on:
   schedule:
     # SELECT DAILY RUN TIME (UTC)
-    - cron: "40 6 * * *"
+    - cron: "16 7 * * *"
   workflow_dispatch:
 
 permissions:
